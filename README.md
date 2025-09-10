@@ -14,10 +14,10 @@ A simple command-line banking system built in C++ to demonstrate OOP concepts.
 * **Core Concepts:** Object-Oriented Programming, File - Handling
 
 ## How to compile and run
-1* **Prerequisites**
+* **Prerequisites**
     You will need a C++ compiler, such as g++, installed on your machine.
     
-2*  **Compilation**
+*  **Compilation**
     Open your command line or terminal, navigate to the project's directory, and run the following command:
     ```sh
     g++ BankingSystem_CapstoneProject.cpp -o banking_system
@@ -32,4 +32,4 @@ A simple command-line banking system built in C++ to demonstrate OOP concepts.
         ```sh
         ./banking_system
         ```
-    * Enter the UserID as 'Admin' and PAssword as '12345678'
+* Enter the UserID as 'Admin' and Password as '12345678'
