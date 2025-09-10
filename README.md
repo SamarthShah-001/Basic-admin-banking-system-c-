@@ -1,4 +1,4 @@
-# Basic-admin-banking-system-c++-
+# Basic-admin-banking-system-C++-
 A simple command-line banking system built in C++ to demonstrate OOP concepts.
 ---
 ## Features
